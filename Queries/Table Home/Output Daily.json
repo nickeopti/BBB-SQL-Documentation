@@ -1,0 +1,16 @@
+{
+    "td": [
+        {
+            "id": 1,
+            "day": "FRIDAY",
+            "hour": 1,
+            "people": 12345
+        },
+        {
+            "id": 2,
+            "day": "FRIDAY",
+            "hour": 12,
+            "people": 1234
+        }
+    ]
+}
